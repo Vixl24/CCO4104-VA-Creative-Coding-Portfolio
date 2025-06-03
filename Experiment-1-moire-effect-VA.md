@@ -7,6 +7,7 @@ I was tasked to select from the following list:
 - Experiment with the moire effect. Create 3 variations or experiments that change over time or change with the mouse.
 
 I decided to choose the moire effect task, as it piqued my interest the most, and I was curious to see what I could create with such a prompt. I made three patterns: the first consists of two perpetually, symmetrically multiplying circles placed next to eachother with enough space between them to create the overlapping moire effect of two different colours, another consisted of a similar layout but with triangles instead, which created an entirely different looking pattern - as per my prediction, and lastly, the third pattern consists of a circle and a triangle stacked together in the center, which also created an entirely new pattern.
+
 Code:  
 (Images below)
 
@@ -119,3 +120,6 @@ function keyPressed() {
   }  
 }
 ```
+![two circles Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/two_circles_moire.png)
+![Two triangles Moiré effect](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/two_triangles_moire.png)
+![Triangle circle stacked Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/triangle_circle_stacked_moire.png)

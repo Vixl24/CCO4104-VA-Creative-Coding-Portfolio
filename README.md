@@ -10,9 +10,8 @@
 
 ![Triangle circle stacked Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/triangle_circle_stacked_moire.png)
 
-![Video Version](/Moire_effect_VA_2025_06/index.html)
-The video is broken. I dont know what went wrong.
-text
+![Video Version](https://github.com/user-attachments/assets/c864386f-c11a-43de-b0c8-e6f44acd53a8)
+
 ```
 code snippet
 ```

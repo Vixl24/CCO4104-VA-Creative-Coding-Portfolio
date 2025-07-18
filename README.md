@@ -9,7 +9,7 @@
 
 ## Patter 2 - Triangles- or not?
 ![Two triangles Moiré effect](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/two_triangles_moire.png)
-![GIF Version](https://github.com/user-attachments/assets/6a5afee8-ba02-48d3-b8b4-6244e2f2fd77)
+![GIF Version](https://github.com/user-attachments/assets/c047deee-fa92-4873-9e0e-ec3a2bba94fa)
 
 ## Pattern 3 - Illuminati
 ![Triangle circle stacked Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/triangle_circle_stacked_moire.png)

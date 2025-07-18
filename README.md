@@ -3,6 +3,7 @@
 ## My submission for exercise 1/3:
 
 ![two circles Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/two_circles_moire.png)
+![GIF version](https://github.com/user-attachments/assets/d36777c2-8eab-4bcd-b980-481ad8c9e0ea)
 
 
 ![Two triangles Moiré effect](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/two_triangles_moire.png)
@@ -10,7 +11,7 @@
 
 ![Triangle circle stacked Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/triangle_circle_stacked_moire.png)
 
-![Video Version](https://github.com/user-attachments/assets/c864386f-c11a-43de-b0c8-e6f44acd53a8)
+![GIF Version](https://github.com/user-attachments/assets/c864386f-c11a-43de-b0c8-e6f44acd53a8)
 
 ```
 code snippet

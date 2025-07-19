@@ -1,3 +1,4 @@
+//PRESS SPACE BAR TO ALTERNATE
 // I used a Youtube video to get my bearings with the moire effect:
 //Computing Masterclass, 'How to make ' Moire Pattern ' in p5.js', YouTube, 26 September 2019, <https://youtu.be/62SbexSgQIw?si=xf1rkwWWszgqYrP1>[Accessed 3 June 2025]
 
@@ -16,21 +17,17 @@ function draw() { //function that makes custom design visible
     let num = 30 //max number of shape iterations before outermost vanish
       strokeWeight(7) //defines thickness of circle perimiter(s)
     for(let i = 0;i < num; i++) { 
-      
 // I referred to p5.js to figure out how to write some syntax correctly, frameCount being a prominent one:
 //McCarthy, L. frameCount, p5.js, <https://p5js.org/reference/p5/frameCount/>[Accessed 3 June 2025]
-      
     let r = i * 30 + (frameCount % 60)  //for loop that runs indefinitely, creating triangles that increase in size by 30px, with a framerate variable that makes shape bigger every 60 frames indefinitely
     stroke('rgb(16,16,231)') //circle colours
     ellipse(145,250,r) //positioning of circle along x and y axis, and width without height (height becomes same as width if not provided, making said circle)
     stroke('rgb(231,16,16)') 
     ellipse(350,250,r)
     }
-    
 // I referred to p5.js to figure out how to write some syntax correctly, triangle() being a prominent one:
 //McCarthy, L. triangle(),p5.js, <https://p5js.org/reference/p5/triangle/>[Accessed 3 June 2025]
-    
-//Pattern 2 - Triangles:
+//PATTERN 2 - Triangles:
 }  else if (mode === 1) { 
     let num = 30
       strokeWeight(2)
@@ -41,7 +38,7 @@ function draw() { //function that makes custom design visible
     stroke('rgb(255,160,91)')
     drawTriangle2(350, 250, r)
     }
-//Pattern 3 - Circles and triangles:
+//PATTERN 3 - Circles and triangles:
 }  else if (mode === 2) {
     let num = 30
     //number of shape iterations

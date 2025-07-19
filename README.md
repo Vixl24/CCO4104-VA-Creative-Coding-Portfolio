@@ -16,7 +16,9 @@
 ![GIF Version](https://github.com/user-attachments/assets/c864386f-c11a-43de-b0c8-e6f44acd53a8)
 
 ```
-code snippet
+[Link to the code](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/Moire_effect_VA_2025_06/sketch.js)
+```
+Code snippet?
 ```
 My submission for exercise 2/3:
 ## A city or landscape generator 

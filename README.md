@@ -1,7 +1,7 @@
 # CCO4104 VA Creative Coding Portfolio
 # Veronika Andersone 552538
 ## My submission for exercise 1/3:
-##
+[Link to the code](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/Moire_effect_VA_2025_06/sketch.js)
 ## Pattern 1 - Trick of the mEYEnd
 ## Do you see the third colour?
 ![two circles Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/two_circles_moire.png)
@@ -15,8 +15,6 @@
 ![Triangle circle stacked Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/triangle_circle_stacked_moire.png)
 ![GIF Version](https://github.com/user-attachments/assets/c864386f-c11a-43de-b0c8-e6f44acd53a8)
 
-
-[Link to the code](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/Moire_effect_VA_2025_06/sketch.js)
 ```
 Code snippet?
 ```

@@ -1,17 +1,7 @@
 # CCO4104 VA Creative Coding Portfolio
 # Veronika Andersone 552538
-## My submission for exercise 1/3:
+[Link to work for exercise 1](Experiment-1-moire-effect-VA.md)
 
-```
-My submission for exercise 2/3:
-## A city or landscape generator 
-text
-```
-code snippet
-```
-My submission for exercise 3/3:
-## Concrete poetry project (?)
-text
-```
-code snippet
-```
+[Link to work for exercise 2](Experiment-2-three-landscapes-VA.md)
+
+[Link to work for exercise 3](Experiment-3-)

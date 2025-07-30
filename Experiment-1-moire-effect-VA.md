@@ -15,20 +15,18 @@ I have noticed that I had gotten ahead of myself on a few occasions, for example
 I'd say that theres a few things that could have been improved, such as the overall complexity of the project, and the tidiness of the code. Be it that I gave myself more time, I would have also tried to figure out how to attatch the video correctly to the repository, but in all, time management concerns aside, having taken my limited javascript capabilities into consideration, I'd say its not a bad first project overall - it functions how I expected it to, and the toggle button works to alternate between patterns (Space Bar), though I'm not sure whether I had to make it clear to the user which button they need to press to alternate between the patterns.
 
 [Link to the code](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/Moire_effect_VA_2025_06/sketch.js)
-##
-## Pattern 1 - Trick of the mEYEnd
-## Do you see the third colour?
+
+##Screenshots
 ![two circles Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/Images/two_circles_moire.png)
 
-![GIF version](https://github.com/user-attachments/assets/d36777c2-8eab-4bcd-b980-481ad8c9e0ea)
-##
-## Pattern 2 - Triangles- or not?
 ![Two triangles Moiré effect](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/Images/two_triangles_moire.png)
 
-![GIF Version](https://github.com/user-attachments/assets/c047deee-fa92-4873-9e0e-ec3a2bba94fa)
-##
-## Pattern 3 - Illuminati
 ![Triangle circle stacked Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/Images/triangle_circle_stacked_moire.png)
+
+##Function Recordings
+![GIF version](https://github.com/user-attachments/assets/d36777c2-8eab-4bcd-b980-481ad8c9e0ea)
+
+![GIF Version](https://github.com/user-attachments/assets/c047deee-fa92-4873-9e0e-ec3a2bba94fa)
 
 ![GIF Version](https://github.com/user-attachments/assets/c864386f-c11a-43de-b0c8-e6f44acd53a8)
 

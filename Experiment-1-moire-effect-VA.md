@@ -29,6 +29,3 @@ I'd say that theres a few things that could have been improved, such as the over
 ![GIF Version](https://github.com/user-attachments/assets/c047deee-fa92-4873-9e0e-ec3a2bba94fa)
 
 ![GIF Version](https://github.com/user-attachments/assets/c864386f-c11a-43de-b0c8-e6f44acd53a8)
-
-```
-Code snippet?

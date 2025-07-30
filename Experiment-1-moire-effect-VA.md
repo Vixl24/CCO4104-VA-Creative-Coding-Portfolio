@@ -1,4 +1,4 @@
-## Experiment 1 - Moiré effect
+## Experiment 1 - Moiré Effect
 I was tasked to select from the following list:
 
 - An alternative visual way to represent a realtime clock

@@ -4,4 +4,4 @@
 
 [Link to work for exercise 2 - Landscape Generator](Experiment-2-three-landscapes-VA.md)
 
-[Link to work for exercise 3 - ](Experiment-3-)
+[Link to work for exercise 3 - Animated Text Display](Experiment-3-animated-text-display.md)

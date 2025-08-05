@@ -67,7 +67,7 @@ Despite what could be improved within my program, I can't exactly hate what I cr
 
 Note: I absolutely did not only rediscover the p5 library of example works that would have helped me tremendously merely on the morning of the day I submit this work. Not at all. And I am not an absolute stump for it. Totally not. 
 
-[Link to the code]()
+[Link to the code](/Animated_Text_Display/index.html)
 ## 
 ## Screenshots
 ![Menu](https://github.com/user-attachments/assets/c31a025b-e0dc-4233-b2d0-8cb0ffe0b889)

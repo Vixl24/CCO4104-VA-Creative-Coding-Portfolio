@@ -29,7 +29,7 @@ Once I had implemented the city and hills generation, I moved on to the dunes. I
 Note - For some reason unbeknownst to me, the city generation can break along the y axis if it is selected specifically after dune generation. I am not sure what causes this but if you restart the program and select it either first, or after hills it works just fine again.
 
 [Link to the code](/Landscape_Generator/index.html)
-## 
+
 ## Screenshots
 ![Hills Image](https://github.com/user-attachments/assets/57c3975d-3ca7-43d0-8b4d-b0ae98851db5)
 

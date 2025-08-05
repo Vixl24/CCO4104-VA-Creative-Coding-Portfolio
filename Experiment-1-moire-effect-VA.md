@@ -14,7 +14,7 @@ I have noticed that I had gotten ahead of myself on a few occasions, for example
  
 I'd say that theres a few things that could have been improved, such as the overall complexity of the project, and the tidiness of the code. Be it that I gave myself more time, I would have also tried to figure out how to attatch the video correctly to the repository, but in all, time management concerns aside, having taken my limited javascript capabilities into consideration, I'd say its not a bad first project overall - it functions how I expected it to, and the toggle button works to alternate between patterns (Space Bar), though I'm not sure whether I had to make it clear to the user which button they need to press to alternate between the patterns.
 
-[Link to the code](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/Moire_effect_VA_2025_06/sketch.js)
+[Link to the code](Moire_effect_VA_2025_06/index.html)
 
 ## Screenshots
 ![two circles Moiré](https://github.com/Vixl24/CCO4104-VA-Creative-Coding-Portfolio/blob/main/Images/two_circles_moire.png)
